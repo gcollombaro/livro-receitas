@@ -1,5 +1,7 @@
 # Livro de Receitas :woman_cook:
 
-Olá! Bem vindo ao meu livro de receitas :wave:
+:wave: Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Bolo de Cenoura
+- Bolo de Cenoura :carrot:
+- 
+
